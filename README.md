@@ -2,8 +2,6 @@
 
 LiteFM-RSDet: A Lightweight Foundation Model for Remote Sensing Object Detection.
 
-Because we have added the activation function swish that is not available in the keras library, please add the function in keras.activation.py.
-
 code.py is the core code of this project.
 Other codes will be released in subsequent releases.
 
